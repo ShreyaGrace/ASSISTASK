@@ -1,6 +1,7 @@
 # ASSISTASK
    ## A Django application helpful to users in their day to day lives. 
    ### A user-oriented personal assistant to help complete work. 
+   
 ### The application provides the following functionalities: 
 
  * Assists the user organize their day better with the help of an easy to manage todo list and keeps track of the progress of their tasks.
